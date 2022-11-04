@@ -1,0 +1,25 @@
+{
+  "name": "cv1.0",
+  "version": "1.0.0",
+  "description": "mi primer CV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xBlackEaglex/cv1.0.git"
+  },
+  "keywords": [
+    "CV",
+    "JS",
+    "Node",
+    "JavaScript"
+  ],
+  "author": "Roberto Vazquez <roberto_smusic@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xBlackEaglex/cv1.0/issues"
+  },
+  "homepage": "https://github.com/xBlackEaglex/cv1.0#readme"
+}
